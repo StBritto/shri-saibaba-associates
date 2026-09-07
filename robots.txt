@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stbritto.github.io/shri-saibaba-associates/sitemap.xml
